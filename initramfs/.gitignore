@@ -1,0 +1,4 @@
+u-boot.bin
+linuxImage
+init
+initramfs*
