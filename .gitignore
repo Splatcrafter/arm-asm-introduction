@@ -1,3 +1,5 @@
 *.o
+*.elf
+*.bin
 exit/exit
 hello/hello
