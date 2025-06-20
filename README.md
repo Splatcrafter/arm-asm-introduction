@@ -13,6 +13,13 @@ We need:
 nix shell nixpkgs#gcc-arm-embedded nixpkgs#qemu
 ```
 
+### Debian
+
+We need:
+* `qemu-user` qemu
+* `gcc-arm-none-eabi` gcc compiler/assembler
+* `qemu-system-arm` arm binary emulator
+
 
 ## Examples
 
